@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tasks-baby",
+  "private_key_id": "0f7a6071c8b33e51ed306e707bba9fb97dc2526d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCZX3n9Og+lKxEg\ne1QeH138dsD5BrSysU3yPs5vU1ZtlcaNKpwoWMsgAfX81bDmKictVpazn5wqaP5W\n9V8H7z2or6A6SWSfLgjdvzjxv7FvpDn04HlXY969LraB6u6ChOiks8STgpxVDYAc\nHPvRGM0kLgGSMAPSUHM6TvT3BWx3flUhEm4LiUyvMolSGed5tYf8+Q+KiMQeeE+6\ns19Ufg+4YhHzZboeKHsU1T5m6h/E2jQz5L7EXC9a/JguJLzNjmvloP8SOnP2QzMU\nvXhP/VuzdLiThMmuxPtu5J6FZ1kvCsd7xmLWEo9GCxvD3uQOjgZPeWWkgSLtRmA9\ncBG2/yvTAgMBAAECgf8amNkcTXVOKI7WhbUJ8AhIP8kOxLXiLC4OHnfWkw+z/sVA\ntcteyAcuSSjEcyHirURGaVieERaD2HtrSDzbDy9y/RzS49nmzlGFZj7RXLbog7P1\nDWQza+GnFXl180ELAwFwFTXthytsvOPfkGqGtpctcmExrqiqJ8KrUy5d3ff4HvWF\n5WLVIsZgn27J5wpeI/5SHuvGmKClJnSxPOYT7WKKramcHyjcdgCBugC/+Cn2KFxM\nDzAUAfXgKAwpCwkzjvHGTFsdpKOq/5xXjdod4uw+NO1Ak/7MFFgRi6xvzZJY5AQI\nr3ZZBrwBOkKMDp0NTy+JgH1/4maE7Dz1hxvL1XECgYEA10Is9KT7dW8gxKXRYc3Z\nzkiZyZq1kydsPospfikHvjDq2V08srvyNV50BX0FLgA9FWf4tltKbzSm1VGWUoCD\nYmL095tUjg0og10siFLpJha6PARvhbwsnkGKwLYwkCqJE0ryGch0nK//c5HzHPsF\nC7ZWcq7oRrkcnY7jTUYgxzECgYEAtmbJxe3wdvcPrQ4zWhQgqTwism040EZ6t3/p\nG5fnSEytbnbuHS6uVfvtr5CsiSf5zWqocKCyOtQsBLcB05IAB3BG0aJNvZKSU51s\n6ppIB/LIE1R64A6xWNVdyA88MyJQkZJOUCVbAglxKu+Zg62MxIz6H2nNCAIK/S3Z\n67JNKkMCgYAB0qqky7zharaBU9IpHOAqUg0TWv8MpvnQsccBLYHGR43Fl3eLH/JW\nJ12eKkff8tqRktbVXIKN3IlJJy65tiLms2XVrvgRV+Uu75wP73vP+cNL/NGg9U3/\nbRiqtyBEKEgO5MSWGU97gDYOmX7QkQOi7MFgqUCIUMsAPpSIM/7VEQKBgFDJmAbN\ni1r1tIC+sGnuTkUGuIt0qtw8yy+pPLMXBb5VD9/EV1Sfj2HQEodXOcQJ669a1T4F\nPsulm9V+xRVTLiYdSZCiJXKYj6zvJgWGze6PTqSZH09L0qr43e+1J8GyKiM/vOXs\nlbGCQxh0RPc4kAeiNUpijwhD92AJxeKJ93mHAoGBANYm9vYt/u+eqZ/YQU9U6wCB\ngu3Tj/h3DAwjKzs0OXZUZhd/fYH9D9FwkNcnYa6D6a/ipFpBC/ke30hDoDS/zQx1\nBv+a8DM8VcZAnyUgYERKSI1PFbMTBJYJPQYZIMGpveHMZZ8rIeoVZxkB104h/PjY\n4g6HW/oRT3hRvS8o7fa2\n-----END PRIVATE KEY-----\n",
+  "client_email": "firsttask@tasks-baby.iam.gserviceaccount.com",
+  "client_id": "109813515526069590133",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firsttask%40tasks-baby.iam.gserviceaccount.com"
+}
