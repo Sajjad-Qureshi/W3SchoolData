@@ -1,4 +1,7 @@
-# W3school Data (Web Scrapping, Inserting Data into Google sheets, Validation)
+# W3school Data
+- Web Scrapping
+- Inserting Data into Google sheets
+- Validation
 
 ## Project Purpose/Objective:
 The purpose of this project is Scrap data from w3School website and insert into Google sheets and Validating if the data is correctly inserted or not.
